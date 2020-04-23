@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/KnifeOpen.wav-894cf91499c3ee4e08b683b8e3d78733.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/KnifeOpen.wav"
+dest_files=[ "res://.import/KnifeOpen.wav-894cf91499c3ee4e08b683b8e3d78733.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
